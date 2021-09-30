@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annu1999 ( Annu Sharma) btw 1999 is  not my birth year😂
+- 👋 Hi, I’m @annu1999 ( Annu Sharma) btw 1999 is  not my birth year.
 - 👀 I’m interested in machine learning, block chain technologies, web and mobile applications.
 - 🌱 I’m currently investigating deep learning, embedded systems and block chain technologies.
 - 💞️ I’m looking to collaborate on projects that have win/win side in learning.
